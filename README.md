@@ -5,7 +5,32 @@ You must include definitions for the following terms in a separate list aside fr
 
 This will be like a glossary at the end of a text book.
 
-PART 1: Directions on Using Webstorm.
+Part 1 - How to download Webstorm.
+
+Step 1: Go to www.jetbrains.com/student
+
+Step 2: Scroll down and click the blue Apply Now button
+
+Step 3: Fill out the information form, agree to consent questions and click apply for free products
+
+Step 4: Go to the email you entered in the form and click the link to download the software. 
+
+Step 5: Once the software is downloaded, open Webstorm on your computer and click new project to begin working
+
+Part 2 - How to use Git
+
+Step 1: Go to https://git-scm.com/downloads and download the appropriate version for your device
+
+Step 2: Open Git and make sure it is running properly
+Step 2.1: If using a Mac, you will have to go to brew.sh and download Homebrew by using the command line (/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" in the terminal
+Step 2.2: After downloading Homebrew, run the command $ brew install git
+
+Part 3 - Creating a Github Account and connecting it to WebStorm
+
+Step 1: 
+
+
+
 
 Add a step by step set of directions. Include URLs of any downloaded software. 
 
